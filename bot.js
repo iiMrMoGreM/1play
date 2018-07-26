@@ -17,6 +17,7 @@ const prefix = '$'
 
 
 
+
 client.on('ready', function(){
     var ms = 10000 ;
     var setGame = [' ','iiMrMoGreM | << ','By ','iiA7TrAf Games Bot',''];
